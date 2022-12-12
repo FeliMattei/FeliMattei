@@ -24,5 +24,14 @@ Desde siempre me apasionó la programación en todos sus aspectos, es por ello q
 <a href="https://felimattei.github.io/Work-Tools/"><img src="https://img.shields.io/badge/PÁGINA-Work%20Tools-lightblue" alt="Sitio web"></a>
 <a href="https://github.com/FeliMattei/Work-Tools"><img src="https://img.shields.io/badge/GITHUB-Código-darkgray" alt="Código"></a>
 
+<hr>
+
+<h3> TeamFight Tactics - <i>Jugando con WollokGame</i></h3>
+🥈 <strong>2º Lugar</strong> — <i>Desarrollo de un videojuego bajo el lenguaje de [Wollok](https://www.wollok.org/) (POO) - (Proyecto para la materia PDEP)</i>
+<br>
+<br>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRovuWOwqDfeF0CddazQwDGWlIAhVrvJJUYF45Jxnh5g5sL_lHIjy9xyv7kw8wCYaJmzM9x0kmVJCBd/pub"><img src="https://img.shields.io/badge/ENLACE-Resultado-yellow" alt="Resultado"></a>
+<a href="https://github.com/FeliMattei/TeamFight-Tactics"><img src="https://img.shields.io/badge/GITHUB-Código-darkgray" alt="Código"></a>
+
 <h2>Contacto</h2>
 <a href="mailto:felipemattei07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"></a> <a href="https://www.linkedin.com/in/felipemattei/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
