@@ -27,7 +27,7 @@ Desde siempre me apasionó la programación en todos sus aspectos, es por ello q
 <hr>
 
 <h3> TeamFight Tactics - <i>Jugando con WollokGame</i></h3>
-🥈 <strong>2º Lugar</strong> — <i>Desarrollo de un videojuego bajo el lenguaje de [Wollok](https://www.wollok.org/) (POO) - (Proyecto para la materia PDEP)</i>
+🥈 <strong>2º Lugar</strong> — <i>Desarrollo de un videojuego bajo el lenguaje de <a href="https://www.wollok.org/">Wollok</a> (POO) - (Proyecto para la materia PDEP)</i>
 <br>
 <br>
 <a href="https://docs.google.com/document/d/e/2PACX-1vRovuWOwqDfeF0CddazQwDGWlIAhVrvJJUYF45Jxnh5g5sL_lHIjy9xyv7kw8wCYaJmzM9x0kmVJCBd/pub"><img src="https://img.shields.io/badge/ENLACE-Resultado-yellow" alt="Resultado"></a>
