@@ -8,8 +8,15 @@ Actualmente tengo <strong>22 años</strong> y me encuentro estudiando <strong>In
 Desde siempre me apasionó la programación en todos sus aspectos, es por ello que me encanta aprender distintas tecnologías. Hoy en día estoy especializándome en el <strong>Desarrollo Backend con Java</strong>.
 
 <h2>Proyectos</h2>
+
+<h3>API Rest - <i>Capacitación Backend (Banco Credicoop)</i></h3>
+📕 <strong> Proyecto final </strong> — <i>Desarrollo de API Rest de un sitio web e-commerce en Java con Springboot y Hibernate.</i> <br>
+<br>
+<a href="https://github.com/FeliMattei/tp_la_licuadora_2022"><img src="https://img.shields.io/badge/GITHUB-Código-darkgray" alt="Código"></a>
+<hr>
+
 <h3> Mundo Invertido - <i>Game Jam C40</i> </h3>
-🥇 <strong> 1º Lugar </strong> — <i>Desarrollo de un videojuego en 72hs bajo la temática de Biodiversidad.</i> <br>
+🥇 <strong> 1º Lugar </strong> — <i>Desarrollo de un videojuego en equipo en el plazo de 72hs bajo la temática de Biodiversidad.</i> <br>
 <br>
 <a href="https://www.buenosaires.gob.ar/noticias/sumate-la-game-jam-del-c40-y-crea-un-videojuego-en-tres-dias"><img src="https://img.shields.io/badge/GAMEJAM-Inscripción-green" alt="Imagen"></a>
 <a href="https://encriptados.itch.io/mundo-invertido"><img src="https://img.shields.io/badge/VIDEOJUEGO-Mundo%20Invertido-yellow" alt="Imagen"></a>
