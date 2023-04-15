@@ -5,7 +5,6 @@
 <h2>Sobre mi</h2>
 Hola, mi nombre es <strong>Felipe</strong> y soy de <strong>Buenos Aires, Argentina.</strong> <br>
 Actualmente tengo <strong>22 años</strong> y me encuentro estudiando <strong>Ingeniería en Sistemas en la Universidad Tecnológica Nacional - FRBA.</strong> <br>
-Desde siempre me apasionó la programación en todos sus aspectos, es por ello que me encanta aprender distintas tecnologías. Hoy en día estoy especializándome en el <strong>Desarrollo Backend con Java</strong>.
 
 <h2>Proyectos</h2>
 
