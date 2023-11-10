@@ -4,7 +4,7 @@
 
 <h2>Sobre mi</h2>
 Hola, mi nombre es <strong>Felipe</strong> y soy de <strong>Buenos Aires, Argentina.</strong> <br>
-Actualmente tengo <strong>22 años</strong> y me encuentro estudiando <strong>Ingeniería en Sistemas en la Universidad Tecnológica Nacional - FRBA.</strong> <br>
+Actualmente tengo <strong>23 años</strong> y me encuentro estudiando <strong>Ingeniería en Sistemas en la Universidad Tecnológica Nacional - FRBA.</strong> <br>
 
 <h2>Proyectos</h2>
 
