@@ -23,15 +23,6 @@ Actualmente tengo <strong>23 años</strong> y me encuentro estudiando <strong>In
 
 <hr>
 
-<h3> Work Tools </h3>
-📚 <strong>Página</strong> con <strong>herramientas para estudiar o trabajar</strong> — <i>Contiene lista de tareas, temporizador y sección de música.</i>
-<br>
-<br>
-<a href="https://felimattei.github.io/Work-Tools/"><img src="https://img.shields.io/badge/PÁGINA-Work%20Tools-lightblue" alt="Sitio web"></a>
-<a href="https://github.com/FeliMattei/Work-Tools"><img src="https://img.shields.io/badge/GITHUB-Código-darkgray" alt="Código"></a>
-
-<hr>
-
 <h3> TeamFight Tactics - <i>Jugando con WollokGame</i></h3>
 🥈 <strong>2º Lugar</strong> — <i>Desarrollo de un videojuego bajo el lenguaje de <a href="https://www.wollok.org/">Wollok</a> (POO) - (Proyecto para la materia PDEP)</i>
 <br>
